@@ -1,0 +1,20 @@
+PODS:
+  - Starscream (4.0.4)
+  - UIColor_Hex_Swift (5.1.0)
+
+DEPENDENCIES:
+  - Starscream (~> 4.0.0)
+  - UIColor_Hex_Swift
+
+SPEC REPOS:
+  trunk:
+    - Starscream
+    - UIColor_Hex_Swift
+
+SPEC CHECKSUMS:
+  Starscream: 5178aed56b316f13fa3bc55694e583d35dd414d9
+  UIColor_Hex_Swift: 8be7432edacb7fa91c78aa05ef3c30b66e4f9415
+
+PODFILE CHECKSUM: 0c880ba35a6a82acf3399344963f2b14321f8472
+
+COCOAPODS: 1.10.0
