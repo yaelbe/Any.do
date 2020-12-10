@@ -25,6 +25,7 @@ class GroceryCellView: UICollectionViewCell {
     }
     
     override func layoutSubviews() {
+        super.layoutSubviews()
         //Add shadow
         layer.shadowColor = UIColor.lightGray.cgColor
         layer.shadowOffset = CGSize(width: 2.0, height: 5.0)
